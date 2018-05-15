@@ -1,0 +1,126 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/917ae473665b1f1123fe99ed72805b93/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/87b5e6d08256408b55cb2bb951d394fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/10b22754ca7ac6e1d796d5e5f4b6bfab/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/927c1b4a8d59d2782d39709d23becfb2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/428748ad02b6478cc7e26be11c51bb78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/ab799755c585d10dddc645187f5e885b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/283f4c971f1e9c93e24dc8d0368fa860/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/761773cdc61a34c04cd673398272e7d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3dfcf6c979b6adf7a1342c37f76c5064/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e685075e486a66f6c24172a23ca330ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/6c27969eb99261a02780d36d65b52890/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c7937afced438d34668f301caf2213c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2ed7d372d129e1ca795dabe7cdb32601/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/49926d3a2acf339ce83273fff4beae94/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/161cdd3af54df42441a194c45b7e7d1b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d693aa9ea9c211fa92bc202c169fece7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ecf94d69d2cfc703e4681bb6213462c8/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:3:7-30
+		INJECTED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:5:7-32
+		INJECTED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:4:7-30
+		INJECTED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:6:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/10b22754ca7ac6e1d796d5e5f4b6bfab/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/10b22754ca7ac6e1d796d5e5f4b6bfab/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:6:53-85
+	android:icon
+		ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:6:18-52
+activity#info.mik.mruc.BroadcastSampleActivity
+ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:12:9-19:20
+	android:label
+		ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:13:13-36
+	android:theme
+		ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:14:13-44
+	android:name
+		ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:12:19-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:21:5-44
+INJECTED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:21:5-44
+INJECTED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/917ae473665b1f1123fe99ed72805b93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/917ae473665b1f1123fe99ed72805b93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/87b5e6d08256408b55cb2bb951d394fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/87b5e6d08256408b55cb2bb951d394fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/10b22754ca7ac6e1d796d5e5f4b6bfab/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/10b22754ca7ac6e1d796d5e5f4b6bfab/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/927c1b4a8d59d2782d39709d23becfb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/927c1b4a8d59d2782d39709d23becfb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/428748ad02b6478cc7e26be11c51bb78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/428748ad02b6478cc7e26be11c51bb78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/ab799755c585d10dddc645187f5e885b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/ab799755c585d10dddc645187f5e885b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/283f4c971f1e9c93e24dc8d0368fa860/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/283f4c971f1e9c93e24dc8d0368fa860/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/761773cdc61a34c04cd673398272e7d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/761773cdc61a34c04cd673398272e7d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3dfcf6c979b6adf7a1342c37f76c5064/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3dfcf6c979b6adf7a1342c37f76c5064/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e685075e486a66f6c24172a23ca330ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e685075e486a66f6c24172a23ca330ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/6c27969eb99261a02780d36d65b52890/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/6c27969eb99261a02780d36d65b52890/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c7937afced438d34668f301caf2213c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c7937afced438d34668f301caf2213c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2ed7d372d129e1ca795dabe7cdb32601/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2ed7d372d129e1ca795dabe7cdb32601/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/49926d3a2acf339ce83273fff4beae94/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/49926d3a2acf339ce83273fff4beae94/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/161cdd3af54df42441a194c45b7e7d1b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/161cdd3af54df42441a194c45b7e7d1b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d693aa9ea9c211fa92bc202c169fece7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d693aa9ea9c211fa92bc202c169fece7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ecf94d69d2cfc703e4681bb6213462c8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/mirko.mikan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ecf94d69d2cfc703e4681bb6213462c8/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:21:5-44
+INJECTED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:21:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:21:5-44
+		INJECTED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:21:15-41
+		INJECTED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:22:2-73
+	android:name
+		ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:22:19-70
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:23:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:24:2-76
+	android:name
+		ADDED from /Users/mirko.mikan/Documents/WORKSPACE/MRU-C-v2-MonitorInternetBroadcast/app/src/main/AndroidManifest.xml:24:19-73

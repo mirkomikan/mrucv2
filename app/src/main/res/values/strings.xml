@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, BroadCastSampleActivity!</string>
+    <string name="app_name">MRU-Cv2</string>
+    <string name="app_text">Turn OFF/ON WiFi and Mobile Data to test BroadcastReceiver</string>
+
+</resources>
